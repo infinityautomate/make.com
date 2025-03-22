@@ -5,8 +5,6 @@
 - Nhấp vào nút **"Get started"** hoặc **"Sign up"**.
 - Bạn có thể đăng ký bằng tài khoản Google hoặc sử dụng email để tạo tài khoản mới.
 
----
-
 ### **Bước 2: Truy cập và tạo API Key**
 - Sau khi đăng nhập, truy cập trang quản lý tài khoản hoặc cài đặt của bạn.
 - Tìm mục **"Manage plan"**.

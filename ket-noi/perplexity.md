@@ -4,13 +4,9 @@
 - Truy cập trang web Perplexity tại [https://www.perplexity.ai/](https://www.perplexity.ai/).
 - Nếu chưa có tài khoản, bạn cần đăng ký bằng cách cung cấp thông tin cần thiết. Nếu đã có tài khoản, hãy đăng nhập.
 
----
-
 ### **Bước 2: Truy cập cài đặt API**
 - Sau khi đăng nhập, nhấp vào biểu tượng **"Settings"** (Cài đặt) ở góc dưới bên trái.
 - Trong menu cài đặt, chọn tab **"API"**.
-
----
 
 ### **Bước 3: Thêm phương thức thanh toán**
 - Để sử dụng API, bạn cần thêm thông tin thanh toán.
