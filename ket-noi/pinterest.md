@@ -11,6 +11,7 @@ Bạn có thể kết nối **Make.com** với **Pinterest** để tự động 
 ### **Bước 2: Thêm Pinterest vào Scenario**  
 1. Nhấn vào dấu **"+"** để thêm một module mới.  
 2. Tìm và chọn **Pinterest**.  
+![make-connection-pinterest-01](../images/make-connection-pinterest-01.png)
 3. Chọn hành động mong muốn, ví dụ:  
    - **Create a Pin** → Đăng ảnh mới lên Pinterest.  
    - **Get Pins from a Board** → Lấy danh sách bài đăng từ một bảng.  
@@ -19,10 +20,12 @@ Bạn có thể kết nối **Make.com** với **Pinterest** để tự động 
 ---
 
 ### **Bước 3: Kết nối Pinterest với Make**  
-1. Nhấn **"Add"** để tạo kết nối mới.  
+1. Nhấn **"Create a connection"** (Nếu bạn đã có ít nhất 1 connection rồi thì chọn **"Add"**) để tạo kết nối mới.  
+![make-connection-pinterest-02](../images/make-connection-pinterest-02.png)
+![make-connection-pinterest-03](../images/make-connection-pinterest-03.png)
 2. Đăng nhập vào tài khoản **Pinterest** của bạn.  
 3. Cấp quyền truy cập cho Make.com để có thể đăng bài hoặc lấy dữ liệu.  
-4. Chọn tài khoản hoặc bảng (**Board**) mà bạn muốn tự động hóa.  
+![make-connection-pinterest-04](../images/make-connection-pinterest-04.png)
 
 ---
 
