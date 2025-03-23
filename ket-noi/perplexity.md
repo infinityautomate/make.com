@@ -11,19 +11,20 @@ Bạn có thể kết nối **Make.com** với **Perplexity AI** để tự đ�
 ### **Bước 2: Thêm Perplexity AI vào Scenario**
 1. Nhấn vào dấu **"+"** để thêm một module mới.
 2. Tìm và chọn **Perplexity AI**.
+![make-connection-perplexity-01](../images/make-connection-perplexity-01.png)
 3. Chọn hành động mong muốn, ví dụ:
-   - **Send a Prompt** → Gửi câu hỏi hoặc yêu cầu đến Perplexity AI.
-   - **Get Response** → Nhận phản hồi từ Perplexity AI.
+   - **Create a Chat Completion** → Gửi câu hỏi hoặc yêu cầu đến Perplexity AI.
+   - **Make an API Call** → Gửi API tới Perplexity AI.
 
 ---
 
 ### **Bước 3: Kết nối Perplexity AI với Make.com**
-1. Nhấn **"Add"** để tạo kết nối mới.
-2. Truy cập [Perplexity AI API Settings](https://www.perplexity.ai/help-center/en/articles/10352995-api-settings) để tạo **API Key**.
-   - Đăng nhập vào tài khoản Perplexity AI của bạn.
-   - Đi tới **Settings** và chọn tab **API**.
-   - Thêm phương thức thanh toán nếu cần và tạo **API Key**.
+1. Nhấn **"Create a connection"** (Nếu bạn đã có ít nhất 1 connection rồi thì chọn **"Add"**) để tạo kết nối mới.
+![make-connection-perplexity-02](../images/make-connection-perplexity-02.png)
+2. Truy cập [Perplexity AI API Settings](https://www.perplexity.ai/settings/api) để tạo **API Key**.
+![make-connection-perplexity-03](../images/make-connection-perplexity-03.png)
 3. Sao chép **API Key** và dán vào Make.com để kết nối.
+![make-connection-perplexity-04](../images/make-connection-perplexity-04.png)
 
 ---
 
