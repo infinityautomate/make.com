@@ -2,7 +2,7 @@
 
 ## 1. Giới Thiệu
 Make.com là một nền tảng tự động hóa giúp kết nối các ứng dụng và dịch vụ khác nhau để thực hiện các quy trình tự động. Dự án **Link2Post** sẽ tự động lấy nội dung từ Google Sheets, tóm tắt bài viết, tạo bài đăng trên X (Twitter), Pinterest , Instagram và Facebook, đồng thời tạo hình ảnh minh họa phù hợp.
-- ![scenarios](images/scenarios.png)
+![scenarios](images/scenarios.png)
 
 ## 2. Chuẩn Bị
 ### a. Tài Khoản
@@ -12,6 +12,7 @@ Make.com là một nền tảng tự động hóa giúp kết nối các ứng d
 
 ### b. Kịch Bản
 - [Tải kịch bản file](make-scenarios.json)
+![github-dowload-file](images/github-dowload-file.png)
 - Import Kịch Bản file vào make.com
 
 ### c. Kết Nối
