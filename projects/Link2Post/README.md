@@ -1,7 +1,7 @@
-# Hướng Dẫn Sử Dụng Make.com
+# Hướng Dẫn Sử Dụng Kịch Bản Link2Post
 
 ## 1. Giới Thiệu
-Make.com là một nền tảng tự động hóa giúp kết nối các ứng dụng và dịch vụ khác nhau để thực hiện các quy trình tự động. Dự án **Link2Post** sẽ tự động lấy nội dung từ Google Sheets, tóm tắt bài viết, tạo bài đăng trên X (Twitter), Pinterest , Instagram và Facebook, đồng thời tạo hình ảnh minh họa phù hợp.
+Dự án **Link2Post** sẽ tự động lấy nội dung từ Google Sheets, tóm tắt bài viết, tạo bài đăng trên X (Twitter), Pinterest , Instagram và Facebook, đồng thời tạo hình ảnh minh họa phù hợp.
 ![scenarios](images/scenarios.png)
 
 ## 2. Chuẩn Bị
